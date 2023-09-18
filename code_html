@@ -1,0 +1,9 @@
+<form action="" method="post">
+  <input type="text" name="company_name" placeholder="Nom de l'entreprise">
+  <input type="text" name="siret" placeholder="SIRET">
+  <input type="text" name="code_naf" placeholder="Code NAF">
+  <input type="number" name="turnover" placeholder="Chiffre d'affaires (en euros)">
+  <input type="number" name="years" placeholder="Nombre d'années">
+  <input type="email" name="email" placeholder="Adresse e-mail">
+  <input type="submit" value="Calculer">
+</form>
